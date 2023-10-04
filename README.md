@@ -1,5 +1,4 @@
-<img src="https://github.com/Anass-23/Self/blob/master/img/Banner_v3.png">
-
+<img src="https://github.com/Anass-23/Self/blob/master/img/Banner.png">
 
 # I'm Anass Anhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
