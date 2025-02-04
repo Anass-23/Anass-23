@@ -16,18 +16,6 @@
   </div>
 </div>
 
-## 🚀 About Me
-
-> I'm passionate about solving complex problems through Machine Learning and Data Science.
-
-### 🔬 Research Highlights
-
-- **AI Voice Recognition**: Developed a *Federated Learning* solution for privacy-preserving voice recognition in a European consortium project
-
-- **Enrollment Prediction System**: Developed an ML-powered tool achieving 85-95% accuracy in predicting university course enrollments, implemented predictive models based on students' academic history to optimize faculty hiring and classroom allocation, and revolutionized the traditional manual process, significantly reducing complexity and resource planning efforts
-
-- **5G Network**: Implemented and tested end-to-end 5G setups using SDRs and OpenAirInterface5G for UPC, enabling them to conduct advanced wireless communications research
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -70,3 +58,15 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
+
+## 🚀 About Me
+
+> I'm passionate about solving complex problems through Machine Learning and Data Science.
+
+### 🔬 Research Highlights
+
+- **AI Voice Recognition**: Developed a *Federated Learning* solution for privacy-preserving voice recognition in a European consortium project
+
+- **Enrollment Prediction System**: Developed an ML-powered tool achieving 85-95% accuracy in predicting university course enrollments, implemented predictive models based on students' academic history to optimize faculty hiring and classroom allocation, and revolutionized the traditional manual process, significantly reducing complexity and resource planning efforts
+
+- **5G Network**: Implemented and tested end-to-end 5G setups using SDRs and OpenAirInterface5G for UPC, enabling them to conduct advanced wireless communications research
