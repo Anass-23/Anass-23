@@ -1,110 +1,79 @@
-<img src="https://github.com/Anass-23/Self/blob/master/img/Banner.png">
+<div align="center">
+  <h1>
+    Anass Anhari
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
+  </h1>
 
-# Hi there, I'm Anass Anhari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## About Me
-As a Developer Analyst at Deloitte, I'm working towards solving real-world problems for diverse clients. I work with a team of experts to build innovative solutions with technology and data-driven insights. 
-
-I am currently focused on Machine Learning and Data Science Research, where I enjoy solving problems that don't have straightforward solutions. It's amazing to be able to obtain valuable insights from complex data, finding patterns and relationships in large and small datasets, and manipulate it in ways that regular methods cannot.
-
-Hence, I have been involved in two exciting research projects on Artificial Intelligence and 5G networks. In collaboration with a European consortium, I have developed a federated learning solution for voice recognition that preserves data privacy and security. I have also implemented, configured, and tested a 5G end-to-end setup using SDRs and OpenAirInterface5G, enabling the UPC to conduct various experiments and studies on the 5G network. 
-
-### Programming Languages
-<!-- Python -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="left" alt="Python" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" align="left" alt="C" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- C++ -->
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" align="left" alt="C++" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" alt="JavaScript" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" alt="TypeScript" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- Erlang -->    
-<a href="https://www.erlang.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Erlang_logo.svg" align="left" alt="Erlang" width="40px" style="margin-right: 30px;"/>
-</a>
-
-<br />
-<br />
-
-### Libraries/Frameworks
-<div style="display: flex; align-items: center;">
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" align="left" alt="TensorFlow" width="40px" style="margin-right: 30px;"/>
+  <a href="https://www.linkedin.com/in/anass-anhari-104b06233" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 8px; margin: 5px; font-weight: bold; font-size: 14px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn Logo" style="width: 20px; height: 20px; margin-right: 8px; filter: invert(1);">
+    LinkedIn
   </a>
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" align="left" alt="Scikit-learn" width="60px" style="margin-right: 30px;"/>
+  <a href="https://anassanhari.dev" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 8px; margin: 5px; font-weight: bold; font-size: 14px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio Logo" style="width: 20px; height: 20px; margin-right: 8px; filter: invert(1);">
+    Portfolio
   </a>
-  <!-- NumPy -->
-  <a href="https://www.numpy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" align="left" alt="NumPy" width="100px" style="margin-right: 30px;"/>
-  </a>
-    <!-- Matplotlib -->
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" align="left" alt="Matplotlib" width="44px" style="margin-right: 30px;"/>
-  </a>
+
+  <p align="center" style="margin-top: 20px;">
+    <strong>Software Developer Engineer @ Amazon | ML & Data Science Enthusiast</strong>
+  </p>
+  <!-- <br/> -->
+
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anass-23&theme=github_dark" />
+  </div>
 </div>
 
-<br />
-<br />
+## 🚀 About Me
 
-<div style="display: flex; align-items: center;">
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" align="left" alt="FastAPI" width="100px" style="margin-right: 30px;"/>
-  </a>
-  <!-- React -->
-  <a href="https://react.dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" align="left" alt="React" width="40px" style="margin-right: 30px;"/>
-  </a>
+> I'm passionate about solving complex problems through Machine Learning and Data Science.
+
+### 🔬 Research Highlights
+
+- **AI Voice Recognition**: Developed a *Federated Learning* solution for privacy-preserving voice recognition in a European consortium project
+
+- **Enrollment Prediction System**: Developed an ML-powered tool achieving 85-95% accuracy in predicting university course enrollments, implemented predictive models based on students' academic history to optimize faculty hiring and classroom allocation, and revolutionized the traditional manual process, significantly reducing complexity and resource planning efforts
+
+- **5G Network**: Implemented and tested end-to-end 5G setups using SDRs and OpenAirInterface5G for UPC, enabling them to conduct advanced wireless communications research
+
+## 💻 Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
 </div>
 
-<br />
-<br />
+<div align="left" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-23&layout=compact&theme=dark" />
+</div>
 
-### Tools/Platforms
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg" align="left" alt="Git" width="60px" style="margin-right: 30px;"/>
-</a>
-<!-- Subversion -->
-<a href="https://subversion.apache.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_Subversion_logo.svg" align="left" alt="Subversion" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" align="left" alt="Visual Studio Code" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- Emacs -->
-<a href="https://www.gnu.org/software/emacs/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" align="left" alt="Emacs" width="40px" style="margin-right: 30px;"/>
-</a>
-<!-- LaTeX -->
-<a href="https://www.latex-project.org" target="_blank">
-  <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" align="left" alt="LaTeX" width="40px" style="margin-right: 30px;"/>
-</a>
-<br />
-<br />
+### Frameworks & Libraries
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
+
+### Tools & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</div>
 
 ### Databases
-<!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" align="left" alt="SQLite" width="100px" style="margin-right: 30px;"/>
-</a>
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" align="left" alt="PostgreSQL" width="40px" style="margin-right: 30px;"/>
-</a>
+<div align="left">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+</div>
