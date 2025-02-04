@@ -4,14 +4,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
   </h1>
 
-  <a href="https://www.linkedin.com/in/anass-anhari-104b06233" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 8px; margin: 5px; font-weight: bold; font-size: 14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn Logo" style="width: 20px; height: 20px; margin-right: 8px; filter: invert(1);">
-    LinkedIn
-  </a>
-  <a href="https://anassanhari.dev" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 8px; margin: 5px; font-weight: bold; font-size: 14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Portfolio Logo" style="width: 20px; height: 20px; margin-right: 8px; filter: invert(1);">
-    Portfolio
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-anhari-104b06233)[![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=vercel&logoColor=white)](https://anassanhari.dev)
 
   <p align="center" style="margin-top: 20px;">
     <strong>Software Developer Engineer @ Amazon | ML & Data Science Enthusiast</strong>
