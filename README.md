@@ -7,7 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-anhari-104b06233)[![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=vercel&logoColor=white)](https://anassanhari.dev)
 
   <p align="center" style="margin-top: 20px;">
-    <strong>Software Developer Engineer @ Amazon | ML & Data Science Enthusiast</strong>
+    <strong>Software Developer Engineer @ Amazon | SDE & ML Engineer</strong>
   </p>
   <!-- <br/> -->
 
