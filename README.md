@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
 </div>
 
-<div align="left" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anass-23&layout=compact&theme=dark" />
-</div>
-
 ### Frameworks & Libraries
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
