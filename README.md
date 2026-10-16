@@ -4,10 +4,10 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
   </h1>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-anhari-104b06233)[![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=vercel&logoColor=white)](https://anassanhari.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOC4zMzUgMTguMzM5SDE1LjY3di00LjE3N2MwLS45OTYtLjAyLTIuMjc4LTEuMzktMi4yNzgtMS4zODkgMC0xLjYwMSAxLjA4NC0xLjYwMSAyLjIwNXY0LjI1aC0yLjY2NlY5Ljc1aDIuNTZ2MS4xN2guMDM1Yy4zNTgtLjY3NCAxLjIyOC0xLjM4NyAyLjUyOC0xLjM4NyAyLjcgMCAzLjIgMS43NzggMy4yIDQuMDkxdjQuNzE1ek03LjAwMyA4LjU3NWExLjU0NiAxLjU0NiAwIDAxLTEuNTQ4LTEuNTQ5IDEuNTQ4IDEuNTQ4IDAgMTExLjU0NyAxLjU0OXptMS4zMzYgOS43NjRINS42NjZWOS43NUg4LjM0djguNTg5ek0xOS42NyAzSDQuMzI5QzMuNTkzIDMgMyAzLjU4IDMgNC4yOTd2MTUuNDA2QzMgMjAuNDIgMy41OTQgMjEgNC4zMjggMjFoMTUuMzM4QzIwLjQgMjEgMjEgMjAuNDIgMjEgMTkuNzAzVjQuMjk3QzIxIDMuNTggMjAuNCAzIDE5LjY2NiAzaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/anass-anhari-104b06233)[![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=)](https://anassanhari.dev)
 
   <p align="center" style="margin-top: 20px;">
-    <strong>Software Developer Engineer @ Amazon | SDE & ML Engineer</strong>
+    <strong>AI Engineer @ MediaMarktSaturn | ex-Amazon</strong>
   </p>
   <!-- <br/> -->
 
