@@ -10,10 +10,6 @@
     <strong>AI Engineer @ MediaMarktSaturn | ex-Amazon</strong>
   </p>
   <!-- <br/> -->
-
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anass-23&theme=github_dark" />
-  </div>
 </div>
 
 ## 💻 Tech Stack
